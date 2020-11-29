@@ -35,3 +35,25 @@
   <img src="https://cdn.discordapp.com/attachments/753981306001424414/781866536381841408/unknown.png" alt="">
 </ol>
 </html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>html inputs</title>
+  </head>
+  <body>
+<h1>MY CONTACT DETAILS</h1>
+<p>Email- Shauryasinha2512@gmail.com</p>
+<hr>
+<form class="" action="mailto:Shaurya.sinha2512@gmail.com" method="post">
+  <label>YOUR NAME:</label>
+  <input type="text" name="" value=""><br>
+  <label>Your email:</label>
+  <input type="your email" name="" value=""><br>
+  <label>Your message></label><br>
+<textarea name="name" rows="10" cols="30"></textarea>
+<input type="submit" name="">
+</form>
+</body>
+</html>
